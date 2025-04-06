@@ -60,15 +60,19 @@ class LoginPage extends StatelessWidget {
               //   ),
               // ),
               Container(
-                padding: const EdgeInsets.all(20),
+                padding: const EdgeInsets.all(15),
                 decoration: BoxDecoration(
                   border: Border.all(color: Colors.grey),
                   borderRadius: BorderRadius.circular(16),
                 ),
-                child: Image.asset(
-                  "lib/assets/images/google.png",
-                  height: 40,
-                ),
+                child: Text(
+                  "G",
+                  style: TextStyle(
+                    color : Colors.white70,
+                    fontSize: 30,
+                  ),
+                  
+                )
               ),
               const SizedBox(height: 20),
               // Sign-up Link

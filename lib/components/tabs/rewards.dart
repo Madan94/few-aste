@@ -7,7 +7,10 @@ class RewardsPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Rewards"),
+        title: const Text("Rewards",style: TextStyle(
+          fontStyle: FontStyle.italic,
+        )
+        ),
         centerTitle: true,
       ),
       body: const Center(

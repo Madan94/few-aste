@@ -4,7 +4,7 @@
             "outputFile": "com.example.fewwaste.app-merged_res-31:/values-night-v8_values-night-v8.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\flutter_sde\\flutter_apps\\fewwaste\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "C:\\flutter_sde\\flutter_apps\\few-aste\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
@@ -6006,6 +6006,25 @@
             "outputFile": "com.example.fewwaste.app-merged_res-31:/values_values.arsc.flat",
             "map": [
                 {
+                    "source": "C:\\flutter_sde\\flutter_apps\\few-aste\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "176,832",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "483,998"
+                    },
+                    "to": {
+                        "startLines": "193,197",
+                        "startColumns": "4,4",
+                        "startOffsets": "11729,11910",
+                        "endLines": "196,199",
+                        "endColumns": "12,12",
+                        "endOffsets": "11905,12074"
+                    }
+                },
+                {
                     "source": "C:\\Users\\ADMIN\\.gradle\\caches\\8.11.1\\transforms\\8160aae55d433ecd93ebb6682549e152\\transformed\\jetified-play-services-basement-18.0.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "4,7",
@@ -6111,25 +6130,6 @@
                         "startOffsets": "8142",
                         "endColumns": "53",
                         "endOffsets": "8191"
-                    }
-                },
-                {
-                    "source": "C:\\flutter_sde\\flutter_apps\\fewwaste\\android\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "3,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "176,832",
-                        "endLines": "7,16",
-                        "endColumns": "12,12",
-                        "endOffsets": "483,998"
-                    },
-                    "to": {
-                        "startLines": "193,197",
-                        "startColumns": "4,4",
-                        "startOffsets": "11729,11910",
-                        "endLines": "196,199",
-                        "endColumns": "12,12",
-                        "endOffsets": "11905,12074"
                     }
                 },
                 {

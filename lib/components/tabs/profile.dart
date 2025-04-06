@@ -7,11 +7,15 @@ class ProfilePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Profile"),
+        title: const Text("Profile",
+        style: TextStyle(
+          fontStyle: FontStyle.italic,
+        )
+        ),
         centerTitle: true,
       ),
       body: Padding(
-        padding: const EdgeInsets.all(20.0),
+        padding: const EdgeInsets.all(140.0),
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [

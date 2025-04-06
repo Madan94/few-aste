@@ -7,7 +7,11 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Home"),
+        title: const Text("Home",
+        style: TextStyle(
+          fontStyle: FontStyle.italic,
+        )
+        ),
         centerTitle: true,
       ),
       body: Center(
@@ -16,7 +20,10 @@ class HomePage extends StatelessWidget {
             // Add Scan Ewaste logic here
           },
           style: ElevatedButton.styleFrom(
-            backgroundColor: Colors.blue,
+            side: BorderSide(
+            color: const Color.fromARGB(255, 189, 189, 189),
+            width: 1),
+            backgroundColor: const Color.fromARGB(255, 0, 0, 0),
             padding: const EdgeInsets.all(50),
             shape: RoundedRectangleBorder(
               borderRadius: BorderRadius.circular(10),
