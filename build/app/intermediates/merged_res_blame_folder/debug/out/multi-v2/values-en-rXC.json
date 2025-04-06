@@ -4,7 +4,7 @@
             "outputFile": "com.example.fewwaste.app-mergeDebugResources-29:/values-en-rXC/values-en-rXC.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ADMIN\\.gradle\\caches\\8.11.1\\transforms\\e71ede96502bdf184c1a5c8083ca6020\\transformed\\core-1.13.1\\res\\values-en-rXC\\values-en-rXC.xml",
+                    "source": "/home/m-shyam-sundar/.gradle/caches/transforms-3/73b7a99cd5f34aefeb96fb295f1ea8b6/transformed/core-1.13.1/res/values-en-rXC/values-en-rXC.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ADMIN\\.gradle\\caches\\8.11.1\\transforms\\2eb212cc42d47ec34e528a54e1e09cbb\\transformed\\browser-1.8.0\\res\\values-en-rXC\\values-en-rXC.xml",
+                    "source": "/home/m-shyam-sundar/.gradle/caches/transforms-3/e9034307ac6d46026fa94518fea7f223/transformed/browser-1.8.0/res/values-en-rXC/values-en-rXC.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

@@ -74,7 +74,7 @@ class LoginPage extends StatelessWidget {
               // Sign-up Link
               TextButton(
                 onPressed: () {
-                  // Add sign-up navigation logic here
+                  // Add sign-up navigation logic 
                 },
                 child: const Text("Don't have an account? Sign up"),
               ),

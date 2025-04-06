@@ -1,6 +1,9 @@
-import 'package:fewwaste/components/Intro%20screens/intro_page1.dart';
-import 'package:fewwaste/components/Intro%20screens/intro_page2.dart';
-import 'package:fewwaste/components/Intro%20screens/intro_page3.dart';
+// import 'package:components/Intro%20screens/intro_page1.dart';
+// import 'package:components/Intro%20screens/intro_page2.dart';
+// import 'package:components/Intro%20screens/intro_page3.dart';
+import 'package:fewwaste/components/Intro screens/intro_page1.dart';
+import 'package:fewwaste/components/Intro screens/intro_page3.dart';
+import 'package:fewwaste/components/Intro screens/intro_page2.dart';
 import 'package:flutter/material.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
 import 'components/login_page.dart';
